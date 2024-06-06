@@ -1,3 +1,4 @@
+![logo](https://github.com/Kishan-savaliya203/kishan-savaliya203/blob/main/417644.jpg)
 <h1 align="center">Hi 👋, I'm kishan savaliya</h1>
 <h3 align="center">A passionate data analyst</h3>
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/developer-dribbble.gif">
